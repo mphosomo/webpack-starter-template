@@ -1,5 +1,0 @@
-{
-  "prettier.semi": false,
-  "notebook.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.fontFamily": "Fira Code"
-}
